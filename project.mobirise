@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The Rother League",
-    "currentPage": "index.html",
+    "currentPage": "teams.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -192,7 +192,7 @@
       "settings": {
         "title": "Teams",
         "order": 1,
-        "header_custom": "<style>\naside{\nfloat:right;\nmargin-left:1em;\n}\n</style>"
+        "header_custom": "<style>\naside{\nfloat:right;\nmargin-left:1em;\nwidth:15%;\n}\n</style>"
       },
       "components": [
         {
