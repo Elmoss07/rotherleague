@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The Rother League",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 41,
+    "uniqCompNum": 52,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -89,7 +89,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li>  ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Teams</a></li>  ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -177,7 +177,7 @@
             }
           },
           "text1": "<b>Contact</b><br>rotherleague@gmail.com<br><br>",
-          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br>Privacy Policy<br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
+          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br><a href=\"page6.html\">Officers</a><br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
           "text3": "<b>Socials</b><br><ul><li>Facebook</li><li>Twitter</li><li>Instagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -191,7 +191,7 @@
     "page1.html": {
       "settings": {
         "title": "About Us",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -205,7 +205,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li>  ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Teams</a></li>  ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -349,7 +349,7 @@
             }
           },
           "text1": "<b>Contact</b><br>rotherleague@gmail.com<br><br>",
-          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br>Privacy Policy<br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
+          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br><a href=\"page6.html\">Officers</a><br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
           "text3": "<b>Socials</b><br><ul><li>Facebook</li><li>Twitter</li><li>Instagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -363,7 +363,7 @@
     "page2.html": {
       "settings": {
         "title": "Registration",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -373,7 +373,13 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-q"
+          "_anchor": "buttons1-q",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         },
         {
           "_params": {
@@ -386,7 +392,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li>  ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Teams</a></li>  ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -474,7 +480,7 @@
             }
           },
           "text1": "<b>Contact</b><br>rotherleague@gmail.com<br><br>",
-          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br>Privacy Policy<br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
+          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br><a href=\"page6.html\">Officers</a><br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
           "text3": "<b>Socials</b><br><ul><li>Facebook</li><li>Twitter</li><li>Instagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -488,7 +494,7 @@
     "page3.html": {
       "settings": {
         "title": "News Letter",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -502,7 +508,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li>  ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Teams</a></li>  ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -594,7 +600,13 @@
             "Theme"
           ],
           "_name": "form2",
-          "_anchor": "form2-z"
+          "_anchor": "form2-z",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         },
         {
           "_params": {
@@ -625,7 +637,7 @@
             }
           },
           "text1": "<b>Contact</b><br>rotherleague@gmail.com<br><br>",
-          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br>Privacy Policy<br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
+          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br><a href=\"page6.html\">Officers</a><br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
           "text3": "<b>Socials</b><br><ul><li>Facebook</li><li>Twitter</li><li>Instagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -639,7 +651,7 @@
     "page4.html": {
       "settings": {
         "title": "Contact",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -653,7 +665,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li>  ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Teams</a></li>  ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -760,7 +772,13 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-y"
+          "_anchor": "form1-y",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         },
         {
           "_params": {
@@ -791,7 +809,7 @@
             }
           },
           "text1": "<b>Contact</b><br>rotherleague@gmail.com<br><br>",
-          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br>Privacy Policy<br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
+          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br><a href=\"page6.html\">Officers</a><br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
           "text3": "<b>Socials</b><br><ul><li>Facebook</li><li>Twitter</li><li>Instagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -805,7 +823,7 @@
     "page5.html": {
       "settings": {
         "title": "Safe Guarding of Children",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -819,7 +837,18 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-14"
+          "_anchor": "header3-14",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "SMALL": {
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         },
         {
           "text": "1. Any act, statement, conduct or other matter which harms a child or children, or poses or may &nbsp; &nbsp; &nbsp; pose a risk of harm to a child or children, shall constitute behaviour which is improper and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; brings the game into disrepute.<p><br></p><p>2. (A) In these Regulations the expression \"Offence\" shall mean any one or more of the offences &nbsp; &nbsp; &nbsp; &nbsp; contained in the Schedules of the Criminal Justice and Court Services Act 2000, and any &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; other criminal offence which reasonably causes The Football Association to believe that the &nbsp; &nbsp; &nbsp; &nbsp; person accused of the offence poses or may pose a risk of harm to a child or children.</p><p><span style=\"font-size: 1.25rem;\">&nbsp; &nbsp; &nbsp; (B) All persons in such positions that the Football Association deems relevant whose normal &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;duties include caring for, training, supervising or being in sole charge of children are &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;required to obtain an Enhanced Disclosure via the Association’s CRC process.</span><br></p><p><br></p><p>3. Upon receipt by The Football Association of:</p><p><span style=\"font-size: 1.25rem;\">&nbsp; &nbsp; &nbsp; &nbsp;1. &nbsp; 3.1  notification that an individual has been charged with an Offence; or<br></span><span style=\"font-size: 1.25rem;\"><br>&nbsp; &nbsp; &nbsp; &nbsp;2. &nbsp;3.2  notification that an individual is the subject of an investigation by the Police, Social &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Services or any other authority relating to an Offence; or</span></p><p><span style=\"font-size: 1.25rem;\">&nbsp; &nbsp; &nbsp; &nbsp;3. &nbsp;3.3  any other information which causes The Football Association reasonably to believe &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;that a person poses or may pose a risk of harm to a child or children, then The Football &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Association shall have the power to order that the individual be suspended from all or any &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;specific football activity for such period and on such terms and conditions as it thinks fit.</span><br></p><p><span style=\"font-size: 1.25rem;\">4. In reaching its determination as to whether an order under Regulation 3 should be made The &nbsp; &nbsp; &nbsp;Football Association shall give consideration, inter alia, to the following factors:</span><br></p><p><span style=\"font-size: 1.25rem;\">&nbsp; &nbsp; &nbsp; &nbsp; 1. &nbsp;4.1  whether a child is or children are or may be at risk of harm;</span></p><p><span style=\"font-size: 1.25rem;\">&nbsp; &nbsp; &nbsp; &nbsp; 2. &nbsp;4.2  whether the matters are of a serious nature;<br></span><span style=\"font-size: 1.25rem;\"><br>&nbsp; &nbsp; &nbsp; &nbsp; 3 . 4.3  whether an order is necessary or desirable to allow the conduct of any investigation by &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"font-size: 1.25rem;\">The Football Association or any other authority or body to proceed unimpeded.<br><br>5. The period of an order referred to in 3 above shall not be capable of lasting beyond the date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;upon which any charge under the Rules of The Football Association or any Offence is decided &nbsp; &nbsp; &nbsp;or brought to an end.</span></p><p><span style=\"font-size: 1.25rem;\">6. Where an order is imposed on an individual under regulation 3 above, The Football &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Association shall bring and conclude any proceedings under the Rules of The Football &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Association against the person relating to the matters as soon as reasonably practicable.</span><br></p><p><span style=\"font-size: 1.25rem;\">7. Where a person is convicted, or is made the subject of a caution in respect of an Offence, that &nbsp; &nbsp; &nbsp;shall constitute a breach of the Rules of The Football Association and The Football &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Association shall have the power to order the suspension of the person from all or any &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;specific football activity for such a period (including indefinitely), and on such terms and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;conditions as it thinks fit.</span><br></p><p><span style=\"font-size: 1.25rem;\">8. For the purposes of these Regulations, The Football Association shall act through its Council &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;or any committee or sub-committee thereof, including the Board.</span><br></p><p><span style=\"font-size: 1.25rem;\">9. Notification in writing of an order referred to above shall be given to the person concerned &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;and/or any Club with which he is associated as soon as reasonably practicable.</span><br></p><p><span style=\"font-size: 1.25rem;\">10. The applicable standard of proof shall be the civil standard, of the balance of prob ability. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The more serious the allegation, taking into account the nature of the misconduct alleged &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and the context of the case, the greater the burden of evidence required to find the matter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; proved. Save that for charges pursuant to The Football Association’s Safeguarding Children &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; policy, where the welfare and protection of the children shall be paramount and the test &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; shall be whether more likely than not.</span><br></p>",
@@ -841,7 +870,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li>  ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Teams</a></li>  ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -929,7 +958,7 @@
             }
           },
           "text1": "<b>Contact</b><br>rotherleague@gmail.com<br><br>",
-          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br>Privacy Policy<br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
+          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br><a href=\"page6.html\">Officers</a><br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
           "text3": "<b>Socials</b><br><ul><li>Facebook</li><li>Twitter</li><li>Instagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -937,6 +966,301 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-12"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "League Officers",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Officers",
+          "meta": "Rother League Officers&nbsp;",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a",
+          "_styles": {
+            "SMALL": {
+              "font-size": "16px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "text": "<p><b style=\"font-size: 1.25rem;\"><br>PRESIDENT</b><br></p><p>1993/94\tH. Lawrence</p><p>1994-2006\tAlf Holdstock</p><p>2006-2017\tJim Williams</p><p>&nbsp;&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>CHAIRMAN</b></p><p>1993-1995\tBob Chantler</p><p>1995/96\tPeter Bradley</p><p>1996-1998\tKen Cherry</p><p>1998-2000\tTrevor Brand</p><p>2000-2010\tIan Grant</p><p>2010-2015\tJim Williams</p><p>2015-2018\tIan Grant</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>VICE CHAIRMAN</b></p><p>1993-1995\tJohn Boniface</p><p>1995/96\tKen Cherry</p><p>1996-1998\tJohn Cornford</p><p>1998-2006\tJim Williams</p><p>2006-2010\tJohn Mantel</p><p>2010/11\tRichard Hubble</p><p>2011-2017\tIan Grant</p><p>2018/19\tJack Payne</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>LEAGUE SECRETARY</b></p><p>1993-1995\tTony Clark</p><p>1995/96\tJohn Mantel</p><p>1996-2010\tDave McCrossen</p><p>2010-2016\tRichard Hubble</p><p>2016-2018\tNigel Morris</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>FIXTURES SECRETARY</b></p><p>1993-1995\tJim Williams</p><p>1995/96\tMike Smith</p><p>1996-1999\tVacant</p><p>1999-2005\tRoy Smith</p><p>2005/6\tVacant</p><p>2006/7\tMark Jeapes</p><p>2007-2009\tVacant</p><p>2009-2014\tRichard Hubble</p><p>2014-2018\tZak Overfield</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>TREASURER</b></p><p>1993-1995\tLaurie Webber</p><p>1995-2010\tDave McCrossen</p><p>2010/11\tMike Barrett</p><p>2011-2017\tJack Payne</p><p>2018-2019\tZak Overfield</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>REFEREES SECRETARY</b></p><p>1993/4\tTony Clark</p><p>1994/5\tPeter Scotcher</p><p>1995-1999\tMark Potter</p><p>1999-2001\tDennis Milward</p><p>2001-2003\tPeter Smith</p><p>2003/4\tGary Miller</p><p>2004/5\tJohn Mantel</p><p>2005/6\tMark Jeapes</p><p>2006-2010\tJohn Mantel</p><p>2010/11\tPaul Wenham</p><p>2011/12\tDenis Milward / Jack Payne</p><p>2012-2017\tJack Payne</p><p>2018\tSandra Harber</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>REGISTRATIONS SECRETARY</b></p><p>1993-1995\tJohn Mantel</p><p>1995/6\tIrene Mantel</p><p>1996-1998\tTrevor Brand</p><p>1998-2000\tIan Grant</p><p>2000-2004\tKevin Anderson</p><p>2004-2006\tIan Grant</p><p>2006-2009\tClaire Smith</p><p>2009/10\tIrene Mantel</p><p>2010-2016\tIan Grant</p><p>2017/18\tSandra Harber</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>REPRESENTATIVE TEAMS SECRETARY</b></p><p>1993-1996\tPat Taylor</p><p>1996/7\tPeter Malecki</p><p>1997-1999\tIan Grant</p><p>1999/0\tJohn Hensher</p><p>2000/1\tRon Saxby</p><p>2001/2\tVacant</p><p>2002-2004\tIan Grant</p><p>2004/5\tHenry Chapman</p><p>2005/6\tMark Jeapes</p><p>2006-2008\tClaire Smith</p><p>2008-2010\tVacant</p><p>2010-2012\tTerry Avann</p><p>2012-2018\tVacant</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>TROPHY OFFICER</b></p><p>1993/4\tVacant</p><p>1994-1995\tDave McCrossen</p><p>1996/7\tMick James</p><p>1997-1999\tDave McCrossen</p><p>1999-2004\tRon Saxby</p><p>2004-2018\tJack Payne</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>CHILD WELFARE OFFICER</b></p><p>2009-2013\tJack Payne</p><p>2013-2018\tTracy Aston</p><p>&nbsp;<br><b style=\"font-size: 1.25rem;\"><br>OTHER ELECTED OFFICERS</b></p><p>1994/5\tIan Grant, John Hammond, Norman Harris, Graham Weston</p><p>1995/6\tIan Grant, John Hensher, Graham Spears. 1 vacant</p><p>1996/7\tRon Brown, Barry Durrans, Ian Grant, Jack Payne</p><p>1997/8\tJohn Hensher, Mick James, Jack Payne, Jim Williams</p><p>1998/9\tJohn Hensher, Ron Saxby. 2 vacant</p><p>1999/0\tKevin Anderson, Steve Honeyball, Jack Payne, Mark Potter</p><p>2000/1\tSteve Honeyball, John Mantel, Jack Payne, Mark Potter</p><p>2001/2\tA. Brown, John Mantel, Jack Payne, Mark Potter</p><p>2002/3\tJohn Mantel, Jack Payne, Mark Potter. 1 vacant</p><p>2003/4\tColleen Crouch, John Mantel, Jack Payne, Mark Potter</p><p>2004/5\tColleen Crouch, John Mantel, Mark Potter. 1 vacant</p><p>2005/6\tSteve Cornford, Colleen Crouch, John Mantel, Mark Potter</p><p>2006/7\tSteve Cornford, Colleen Crouch, Mark Potter. 1 vacant</p><p>2007/8\tSteve Cornford, Colleen Crouch, Mark Potter. 1 vacant</p><p>2008/9\tSteve Cornford, Colleen Crouch, Mark Potter, Darren Smith</p><p>2009/10\tSteve Cornford, Mark Potter, Mike Barrett. 1 vacant</p><p>2010/11\tSteve Cornford, Mark Potter. 2 vacant</p><p>2011/12\tSteve Cornford, Mark Potter, Lyntton Peppiatt. 1 vacant</p><p>2012/13\tSteve Cornford, Mark Potter, Robin Powell. 1 vacant</p><p>2013/14\tSteve Cornford, Mark Potter, Robin Powell, Simon Ronald</p><p>2014/15\tSteve Cornford, Robin Powell, Terry Sands, Melvyn Young</p><p>2015/16\tNigel Morris, Steve Cornford, Terry Sands, Melvyn Young</p><p>2016/17\tSteve Cornford, Terry Sands, Melvyn Young 1 vacant</p><p>2018\t4 vacant</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1b",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Teams</a></li>  ",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rother-league-football-logo-2-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Rother League</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".nav-link": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "menu-15"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Unless otherwise stated all content is Copyright (c) 2016 Rother Youth Football League. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-16"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rother-league-football-logo-2-265x265.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>Contact</b><br>rotherleague@gmail.com<br><br>",
+          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br><a href=\"page6.html\">Officers</a><br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
+          "text3": "<b>Socials</b><br><ul><li>Facebook</li><li>Twitter</li><li>Instagram</li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-17"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "Teams",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "blockTitle": "<h3>Block Title</h3>",
+            "HTMLCode": "<h1>HTML Code</h1>",
+            "extEdit": true,
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "blockTitle": "<h3>Block Title</h3>",
+          "HTMLCode": "<h1>HTML Code</h1>",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-1f"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">About Us</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Registration&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">News Letter</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Teams</a></li>  ",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rother-league-football-logo-2-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">The Rother League</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".nav-link": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "menu-1c"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Unless otherwise stated all content is Copyright (c) 2016 Rother Youth Football League. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1d"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rother-league-football-logo-2-265x265.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>Contact</b><br>rotherleague@gmail.com<br><br>",
+          "text2": "<b>Menu</b><br><a href=\"page1.html\">About Us</a><br><a href=\"page6.html\">Officers</a><br>Terms &amp; Conditions<br><a href=\"page4.html\">Contact</a><br><a href=\"page5.html\">Safeguarding Children</a>",
+          "text3": "<b>Socials</b><br><ul><li>Facebook</li><li>Twitter</li><li>Instagram</li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1e"
         }
       ]
     }
