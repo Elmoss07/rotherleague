@@ -23,90 +23,13 @@
 }
 
 
-
-
-#menu-6 .navbar-toggler {
+#menu-1c .navbar-toggler {
   color: #000;
 }
-#menu-6 .navbar-brand {
+#menu-1c .navbar-brand {
   font-family: 'Montserrat', sans-serif;
 }
-#menu-6 .nav-link {
-  font-family: 'Montserrat', sans-serif;
-}
-#header2-i H1 {
-  font-family: 'Montserrat', sans-serif;
-}
-#header2-i P {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 24px;
-}
-#content1-a DIV {
-  text-align: left;
-}
-
-
-
-#buttons1-q .btn {
-  font-family: 'Montserrat', sans-serif;
-}
-#menu-n .navbar-toggler {
-  color: #000;
-}
-#menu-n .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
-}
-#menu-n .nav-link {
-  font-family: 'Montserrat', sans-serif;
-}
-
-
-
-#menu-r .navbar-toggler {
-  color: #000;
-}
-#menu-r .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
-}
-#menu-r .nav-link {
-  font-family: 'Montserrat', sans-serif;
-}
-#form2-z .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
-}
-
-
-
-#menu-u .navbar-toggler {
-  color: #000;
-}
-#menu-u .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
-}
-#menu-u .nav-link {
-  font-family: 'Montserrat', sans-serif;
-}
-#form1-y .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
-}
-
-
-
-
-#header3-14 H3 {
-  font-family: 'Montserrat', sans-serif;
-}
-#header3-14 SMALL {
-  font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
-}
-#menu-10 .navbar-toggler {
-  color: #000;
-}
-#menu-10 .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
-}
-#menu-10 .nav-link {
+#menu-1c .nav-link {
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -134,12 +57,89 @@
 }
 
 
-#menu-1c .navbar-toggler {
+
+
+#header3-14 H3 {
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-14 SMALL {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-10 .navbar-toggler {
   color: #000;
 }
-#menu-1c .navbar-brand {
+#menu-10 .navbar-brand {
   font-family: 'Montserrat', sans-serif;
 }
-#menu-1c .nav-link {
+#menu-10 .nav-link {
   font-family: 'Montserrat', sans-serif;
+}
+
+
+
+#menu-u .navbar-toggler {
+  color: #000;
+}
+#menu-u .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-u .nav-link {
+  font-family: 'Montserrat', sans-serif;
+}
+#form1-y .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+#menu-r .navbar-toggler {
+  color: #000;
+}
+#menu-r .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-r .nav-link {
+  font-family: 'Montserrat', sans-serif;
+}
+#form2-z .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+#buttons1-q .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-n .navbar-toggler {
+  color: #000;
+}
+#menu-n .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-n .nav-link {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+#menu-6 .navbar-toggler {
+  color: #000;
+}
+#menu-6 .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-6 .nav-link {
+  font-family: 'Montserrat', sans-serif;
+}
+#header2-i H1 {
+  font-family: 'Montserrat', sans-serif;
+}
+#header2-i P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+}
+#content1-a DIV {
+  text-align: left;
 }
