@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The Rother League",
-    "currentPage": "page9.html",
+    "currentPage": "news_letter.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -865,11 +865,11 @@
             "overlayOpacity": 0.5
           },
           "title": "Subscribe to our Newsletter&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Subscribe</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>",
           "form": {
             "action": "476336@chrome.sussexdowns.ac.uk",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for subscribing to our Newsletter!"
             },
             "fields": {
               "email": {
